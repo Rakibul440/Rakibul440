@@ -36,7 +36,23 @@
 
 ###
 
-<p align="left">I'm a passionate developer from India<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a passionate developer from India<br><br></p>
+- 🌱 I’m currently exploring **different technologies & frameworks**
+---
+
+### 🛠️ Technologies & Tools:
+
+- **Frontend**: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Bootstrap/Material UI , Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Languages**: Java, JavaScript, C
+- **Tools & Platforms**: VS Code, Postman
+
+---
+
+
+- 📫 Contact me **md.fahimakhtab04@gmail.com**
 
 ###
 
