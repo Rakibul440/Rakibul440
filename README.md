@@ -37,8 +37,6 @@
 ###
 
 <p align="left">I'm a passionate developer from India<br><br></p>
-- 🌱 I’m currently exploring **different technologies & frameworks**
----
 
 ### 🛠️ Technologies & Tools:
 
