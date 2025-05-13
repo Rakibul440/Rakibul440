@@ -42,17 +42,17 @@
 
 ### 🛠️ Technologies & Tools:
 
-- **Frontend**: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Bootstrap/Material UI , Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, PostgreSQL
+- **Frontend**: React.js, Redux, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3, Bootstrap/Material UI , Tailwind CSS, SASS, Framer Motion
+- **Backend**: Node.js, Express.js, WebSocket
+- **Databases**: MongoDB, PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
-- **Languages**: Java, JavaScript, C
-- **Tools & Platforms**: VS Code, Postman
+- **Languages**: Java, JavaScript, C, C++, Python
+- **Tools & Platforms**: VS Code, Postman, Figma
 
 ---
 
 
-- 📫 Contact me **md.fahimakhtab04@gmail.com**
+- 📫 Contact me **rakibu25cse@gmail.com**
 
 ###
 
