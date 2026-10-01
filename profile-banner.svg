@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Rakibul Islam Mondal — Full-Stack Web Developer</title>
+  <desc id="desc">Dark developer-themed banner with cyan and lavender accents. React, Node.js, PostgreSQL. Kolkata, India.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1020"/><stop offset="1" stop-color="#141B35"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#A5B4FC"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1280" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+  <path d="M48 1H1232" stroke="url(#accent)" stroke-width="3"/>
+  <circle cx="1160" cy="40" r="190" fill="#6366F1" opacity=".06"/>
+  <circle cx="1270" cy="420" r="220" fill="#22D3EE" opacity=".04"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="56" y="49" width="242" height="30" rx="15" fill="#67E8F9" fill-opacity=".08" stroke="#67E8F9" stroke-opacity=".25"/>
+    <circle cx="74" cy="64" r="4" fill="#67E8F9"/>
+    <text x="89" y="69" fill="#9CECF5" font-size="12" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER</text>
+    <text x="52" y="153" fill="#F8FAFC" font-size="60" font-weight="750" letter-spacing="-2">Rakibul Islam</text>
+    <text x="52" y="219" fill="url(#accent)" font-size="60" font-weight="750" letter-spacing="-2">Mondal.</text>
+    <text x="56" y="269" fill="#CBD5E1" font-size="21">From thoughtful interfaces to reliable APIs.</text>
+    <text x="56" y="301" fill="#CBD5E1" font-size="21">Building products people use.</text>
+    <path d="M56 336H650" stroke="#334155"/>
+    <text x="56" y="372" fill="#94A3B8" font-size="14" letter-spacing="1">KOLKATA, INDIA</text>
+    <text x="238" y="372" fill="#475569" font-size="14">/</text>
+    <text x="264" y="372" fill="#94A3B8" font-size="14" letter-spacing="1">CSE · CLASS OF 2027</text>
+  </g>
+  <g transform="translate(732 83)">
+    <rect width="490" height="272" rx="16" fill="#080F1D" stroke="#334155"/>
+    <path d="M0 44H490" stroke="#263246"/>
+    <circle cx="24" cy="23" r="5" fill="#FB7185"/><circle cx="43" cy="23" r="5" fill="#FBBF24"/><circle cx="62" cy="23" r="5" fill="#86EFAC"/>
+    <g font-family="Consolas, monospace" font-size="15">
+      <text x="297" y="28" fill="#94A3B8">developer.config</text>
+      <text x="27" y="82" fill="#A5B4FC">const <tspan fill="#E2E8F0">developer = {</tspan></text>
+      <text x="44" y="117" fill="#94A3B8">  focus: <tspan fill="#86EFAC">"Full-stack web",</tspan></text>
+      <text x="44" y="151" fill="#94A3B8">  stack: <tspan fill="#67E8F9">["React", "Node.js"],</tspan></text>
+      <text x="44" y="185" fill="#94A3B8">  building: <tspan fill="#86EFAC">"SentinelAI",</tspan></text>
+      <text x="44" y="219" fill="#94A3B8">  community: <tspan fill="#86EFAC">"DoubtHub"</tspan></text>
+      <text x="27" y="251" fill="#E2E8F0">};<tspan fill="#67E8F9"> ▍</tspan></text>
+    </g>
+  </g>
+</svg>
