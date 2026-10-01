@@ -1,6 +1,6 @@
 <div align="center">
 
-![Rakibul Islam Mondal — Full-Stack Web Developer](./assets/profile-banner.svg)
+![Rakibul Islam Mondal — Full-Stack Web Developer](./profile-banner.svg)
 
 **React interfaces. Node.js APIs. Products people use.**
 
