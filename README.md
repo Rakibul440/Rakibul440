@@ -128,12 +128,14 @@ A full-stack social platform with authentication, clubs, posts, comments, and a 
   <a href="https://github.com/Rakibul440">
     <img width="70%" src="https://streak-stats.demolab.com/?user=Rakibul440&amp;theme=tokyonight&amp;hide_border=true&amp;background=0A1020&amp;ring=67E8F9&amp;fire=A5B4FC&amp;currStreakLabel=67E8F9&amp;border_radius=12" alt="Rakibul's current and longest GitHub contribution streaks" />
   </a>
-
+  
+<!--
 ### Recent contribution graph
 
-  <a href="https://github.com/Rakibul440">
+   <a href="https://github.com/Rakibul440">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibul440&amp;bg_color=0A1020&amp;color=CBD5E1&amp;title_color=67E8F9&amp;line=67E8F9&amp;point=A5B4FC&amp;area_color=67E8F9&amp;area=true&amp;hide_border=true&amp;radius=12&amp;custom_title=Rakibul%27s%20Contribution%20Activity" alt="Rakibul's recent GitHub contribution activity graph" />
   </a>
+  -->
 
 ### Annual contribution calendar
 
